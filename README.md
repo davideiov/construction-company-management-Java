@@ -3,6 +3,8 @@ Applicazione grafica in java per la gestione di un'impresa edile, con la possibi
 Per eseguire il progetto, eseguire la classe grafica\ImpresaStarter.java e creare una nuova impresa, dopo l'utilizzo RICORDA di salvare l'istanza in un file .dat.
 Se si vuole un esempio di impresa già popolata, all'avvio caricare il file impresa.dat tramite interfaccia grafica.
 
+Sviluppato da: Davide Iovino, Giovanni Battista Sorrentino, Antonio Zizzari.
+
 ## An UML diagram of the project
 
 ![Alt text](doc/uml.jpg "UML")
